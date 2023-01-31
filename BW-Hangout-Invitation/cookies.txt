@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.elementor.com	TRUE	/	FALSE	1999999999	__cf_bm	OXDzzk5hi4xxQBYM93TZdBxUZM31yTVgLxQxBvPryBY-1674653441-0-AZ3WG7fPnHFLMc6LLF2J13XLbZEuxxZpL4DArIaFunOEor4rKlFeUuKgJAgxhODJhkPFvu35kYWIVfUDWFTO8xg=
-elementor.com	TRUE	/	FALSE	1999999999	SameSite	None
-
